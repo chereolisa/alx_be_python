@@ -1,5 +1,5 @@
 
-size = int(input("Enter the size of the pattern (number): "))
+size = int(input("Enter the size of the pattern: "))
 
 while True:
         if size > 0:
